@@ -1,0 +1,12 @@
+c:\users\kamogelo.ramokgadi\documents\visual studio 2015\Projects\DepInj\DepInj\bin\Debug\DepInj.exe.config
+c:\users\kamogelo.ramokgadi\documents\visual studio 2015\Projects\DepInj\DepInj\bin\Debug\DepInj.exe
+c:\users\kamogelo.ramokgadi\documents\visual studio 2015\Projects\DepInj\DepInj\bin\Debug\DepInj.pdb
+c:\users\kamogelo.ramokgadi\documents\visual studio 2015\Projects\DepInj\DepInj\obj\Debug\DepInj.csprojResolveAssemblyReference.cache
+c:\users\kamogelo.ramokgadi\documents\visual studio 2015\Projects\DepInj\DepInj\obj\Debug\DepInj.exe
+c:\users\kamogelo.ramokgadi\documents\visual studio 2015\Projects\DepInj\DepInj\obj\Debug\DepInj.pdb
+E:\Projects\DepInj\DepInj\bin\Debug\DepInj.exe.config
+E:\Projects\DepInj\DepInj\bin\Debug\DepInj.exe
+E:\Projects\DepInj\DepInj\bin\Debug\DepInj.pdb
+E:\Projects\DepInj\DepInj\obj\Debug\DepInj.csprojAssemblyReference.cache
+E:\Projects\DepInj\DepInj\obj\Debug\DepInj.exe
+E:\Projects\DepInj\DepInj\obj\Debug\DepInj.pdb
